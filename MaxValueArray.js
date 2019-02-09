@@ -20,4 +20,4 @@ let array = [
 
 let maximo = array.maxValue('edad');
 
-console.log("Valor Maximo: t", maximo)
+console.log("Valor Maximo: ", maximo)
